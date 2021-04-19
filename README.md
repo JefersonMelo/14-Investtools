@@ -4,5 +4,5 @@
 
 | Propostas                  |
 | -------------------------- |
-| [Função StringChallenge]() |
-| [Função MathChallenge]()   |
+| [Função StringChallenge](https://github.com/JefersonMelo/14-Investtools/tree/main/FuncaoStringChallenge) |
+| [Função MathChallenge](https://github.com/JefersonMelo/14-Investtools/tree/main/FuncaoMathChallenge)   |
